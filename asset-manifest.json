@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/order-delicious/static/css/main.b20cf1f7.css",
-    "main.js": "/order-delicious/static/js/main.353c15be.js",
+    "main.css": "/order-delicious/static/css/main.c4c43193.css",
+    "main.js": "/order-delicious/static/js/main.74911ec7.js",
     "static/js/787.3e8d9225.chunk.js": "/order-delicious/static/js/787.3e8d9225.chunk.js",
     "static/media/meals.jpg": "/order-delicious/static/media/meals.2971f633fc1382581cbf.jpg",
     "static/media/logo.svg": "/order-delicious/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/order-delicious/index.html",
-    "main.b20cf1f7.css.map": "/order-delicious/static/css/main.b20cf1f7.css.map",
-    "main.353c15be.js.map": "/order-delicious/static/js/main.353c15be.js.map",
+    "main.c4c43193.css.map": "/order-delicious/static/css/main.c4c43193.css.map",
+    "main.74911ec7.js.map": "/order-delicious/static/js/main.74911ec7.js.map",
     "787.3e8d9225.chunk.js.map": "/order-delicious/static/js/787.3e8d9225.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b20cf1f7.css",
-    "static/js/main.353c15be.js"
+    "static/css/main.c4c43193.css",
+    "static/js/main.74911ec7.js"
   ]
 }
